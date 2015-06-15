@@ -1,0 +1,30 @@
+$gray: #88898C;
+$dark-gray: #222326;
+$supa-dark-gray: #1C1C1F;
+$supa-supa-dark-gray: #121314;
+
+
+body {
+  background-color: $supa-supa-dark-gray;
+}
+.supa-dark-gray-bg {
+  background-color: $supa-dark-gray;
+}
+
+.dark-gray-bg {
+  background-color: $dark-gray;
+}
+
+.gray-bg {
+  background-color: $gray;
+}
+
+
+.super-inline-animation {
+  transition: .2s linear all;
+  transition-delay: .2s;
+}
+
+.inline-animation {
+  transition: .5s linear all;
+}
